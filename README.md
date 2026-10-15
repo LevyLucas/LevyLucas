@@ -52,17 +52,6 @@ Apaixonado por tecnologia, desenvolvimento de sistemas e por transformar ideias 
 
 ---
 
-## 📌 Projetos em destaque
-
-- ⚙️ **API-StreamElements** — API para comandos personalizados
-- 🌩️ **Projetos meteorológicos / Clima**
-- 🤖 **Bots e automações**
-- 💬 **APIs e aplicações web**
-
-> Depois você pode trocar essa parte por links diretos dos seus melhores repositórios.
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
