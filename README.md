@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou o Lucas! 👋
+# Eai, eu sou Lucas! 👋
 
 **Desenvolvedor de Software | Ciência da Computação - UFF**
 
@@ -45,6 +45,8 @@ Apaixonado por tecnologia, desenvolvimento de sistemas e por transformar ideias 
 </div>
 
 ---
+
+## 🐍
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LevyLucas/LevyLucas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
