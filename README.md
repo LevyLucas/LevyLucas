@@ -44,22 +44,6 @@ Apaixonado por tecnologia, desenvolvimento de sistemas e por transformar ideias 
 
 </div>
 
----
-
-## 📌 Projetos em Destaque
-
-### 🎮 [API-StreamElements](https://github.com/LevyLucas/API-StreamElements)
-API desenvolvida para comandos personalizados no StreamElements, integrando funcionalidades para transmissões ao vivo.
-
-### 🤖 [ChinguBOT](https://github.com/LevyLucas/ChinguBOT)
-Bot para Discord desenvolvido em TypeScript, com funcionalidades personalizadas para comunidades.
-
-### 💬 [Chat API](https://github.com/LevyLucas/chat-api)
-API para comunicação via streaming, explorando integração e comunicação em tempo real.
-
-### 🕹️ [GameTracker](https://github.com/LevyLucas/GameTracker)
-Projeto acadêmico desenvolvido com Flutter e Dart.
-
 <div align="center">
 
 [![Repositórios](https://img.shields.io/badge/Ver_todos_os_projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LevyLucas?tab=repositories)
