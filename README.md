@@ -9,9 +9,7 @@ Apaixonado por tecnologia, desenvolvimento de sistemas e por transformar ideias 
 
 </div>
 
----
-
-### 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 - 🎓 Graduando em Ciência da Computação pela Universidade Federal Fluminense (UFF).
 - 💼 Atuo na [XP Teck](https://xpteckinfo.com.br/), trabalhando com desenvolvimento de soluções, infraestrutura e tecnologia.
@@ -20,37 +18,35 @@ Apaixonado por tecnologia, desenvolvimento de sistemas e por transformar ideias 
 - 📚 Sempre estudando novas tecnologias e aprimorando meus projetos.
 - ☕ Programming and Coffee.
 
----
-
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,java,cs,php,html,css,dart" alt="Linguagens" />
 
-<br>
+<br><br>
 
 **Frameworks e Desenvolvimento Web**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastify" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastify,tailwind,bootstrap,flutter,nestjs" alt="Frameworks" />
 
-<br>
+<br><br>
 
 **Ferramentas e Infraestrutura**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postgres,redis" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,vscode,visualstudio,postgres,mysql,redis,nginx,aws,vercel,postman" alt="Ferramentas" />
 
 </div>
 
 <div align="center">
 
+<br>
+
 [![Repositórios](https://img.shields.io/badge/Ver_todos_os_projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LevyLucas?tab=repositories)
 
 </div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -61,8 +57,6 @@ Apaixonado por tecnologia, desenvolvimento de sistemas e por transformar ideias 
 
 </div>
 
----
-
 ## 🔥 Sequência de contribuições
 
 <div align="center">
@@ -70,8 +64,6 @@ Apaixonado por tecnologia, desenvolvimento de sistemas e por transformar ideias 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LevyLucas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
 
 ## 🐍 Contribuições
 
@@ -85,8 +77,6 @@ Apaixonado por tecnologia, desenvolvimento de sistemas e por transformar ideias 
 
 </div>
 
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
@@ -95,11 +85,7 @@ Apaixonado por tecnologia, desenvolvimento de sistemas e por transformar ideias 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_levylol/)
 [![XP Teck](https://img.shields.io/badge/XP_Teck-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xpteckinfo.com.br/)
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 Acompanhe mais do meu perfil abaixo! 👇
 
